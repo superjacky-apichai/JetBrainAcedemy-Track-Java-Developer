@@ -16,8 +16,8 @@ enum Letter {
         this.getChar = getChar;
     }
 
-
-    int charNumber;
     char getChar;
+    int charNumber;
+    
 
 }
