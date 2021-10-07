@@ -1,0 +1,112 @@
+Examples
+The examples below show how your program should work.
+
+Notice that after Enter cells: and Enter the coordinates: comes the user input.
+
+Example 1:
+Enter cells: X_X_O____
+---------
+| X   X |
+|   O   |
+|       |
+---------
+Enter the coordinates: 3 1
+---------
+| X   X |
+|   O   |
+| X     |
+---------
+
+Example 2:
+Enter cells: _XXOO_OX_
+---------
+|   X X |
+| O O   |
+| O X   |
+---------
+Enter the coordinates: 1 1
+---------
+| X X X |
+| O O   |
+| O X   |
+---------
+
+Example 3:
+Enter cells: _XXOO_OX_
+---------
+|   X X |
+| O O   |
+| O X   |
+---------
+Enter the coordinates: 3 3
+---------
+|   X X |
+| O O   |
+| O X X |
+---------
+
+Example 4:
+Enter cells: _XXOO_OX_
+---------
+|   X X |
+| O O   |
+| O X   |
+---------
+Enter the coordinates: 2 3
+---------
+|   X X |
+| O O X |
+| O X   |
+---------
+
+Example 5:
+Enter cells: _XXOO_OX_
+---------
+|   X X |
+| O O   |
+| O X   |
+---------
+Enter the coordinates: 3 1
+This cell is occupied! Choose another one!
+Enter the coordinates: 1 1
+---------
+| X X X |
+| O O   |
+| O X   |
+---------
+
+Example 6:
+Enter cells: _XXOO_OX_
+---------
+|   X X |
+| O O   |
+| O X   |
+---------
+Enter the coordinates: one
+You should enter numbers!
+Enter the coordinates: one one
+You should enter numbers!
+Enter the coordinates: 1 1
+---------
+| X X X |
+| O O   |
+| O X   |
+---------
+
+Example 7:
+Enter cells: _XXOO_OX_
+---------
+|   X X |
+| O O   |
+| O X   |
+---------
+Enter the coordinates: 4 1
+Coordinates should be from 1 to 3!
+Enter the coordinates: 1 4
+Coordinates should be from 1 to 3!
+Enter the coordinates: 1 1
+---------
+| X X X |
+| O O   |
+| O X   |
+---------
