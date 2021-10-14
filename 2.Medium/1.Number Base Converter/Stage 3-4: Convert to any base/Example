@@ -1,0 +1,31 @@
+Example
+The greater-than symbol followed by a space (> ) represents the user input. Note that it's not part of the input.
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 10 2
+Enter number in base 10 to convert to base 2 (To go back type /back) > 11
+Conversion result: 1011
+
+Enter number in base 10 to convert to base 2 (To go back type /back) > 18
+Conversion result: 10010
+
+Enter number in base 10 to convert to base 2 (To go back type /back) > 127
+Conversion result: 1111111
+
+Enter number in base 10 to convert to base 2 (To go back type /back) > 189344562689000108753301247
+Conversion result: 1001110010011111010001010100111110001111101101011010101101001001111110100010111011111111
+
+Enter number in base 10 to convert to base 2 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > 36 10
+Enter number in base 36 to convert to base 10 (To go back type /back) > abcde
+Conversion result: 17325410
+
+Enter number in base 36 to convert to base 10 (To go back type /back) > 13a0
+Conversion result: 50904
+
+Enter number in base 36 to convert to base 10 (To go back type /back) > az
+Conversion result: 395
+
+Enter number in base 36 to convert to base 10 (To go back type /back) > /back
+
+Enter two numbers in format: {source base} {target base} (To quit type /exit) > /exit
