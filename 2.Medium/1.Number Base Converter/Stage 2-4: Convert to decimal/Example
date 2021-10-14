@@ -1,0 +1,52 @@
+Examples
+The greater-than symbol followed by a space (> ) represents the user input. Note that it's not part of the input.
+
+Example 1:
+
+Do you want to convert /from decimal or /to decimal? (To quit type /exit) > /from
+Enter a number in decimal system: > 8
+Enter the target base: > 16
+Conversion result: 8
+
+Do you want to convert /from decimal or /to decimal? (To quit type /exit) > /from
+Enter a number in decimal system: > 101
+Enter the target base: > 2
+Conversion result: 1100101
+
+Do you want to convert /from decimal or /to decimal? (To quit type /exit) > /from
+Enter a number in decimal system: > 103
+Enter the target base: > 8
+Conversion result: 147
+
+Do you want to convert /from decimal or /to decimal? (To quit type /exit) > /exit
+Example 2:
+
+Do you want to convert /from decimal or /to decimal? (To quit type /exit) > /to
+Enter source number: > ff
+Enter source base: > 16
+Conversion to decimal result: 255
+
+Do you want to convert /from decimal or /to decimal? (To quit type /exit) > /to
+Enter source number: > 71
+Enter source base: > 8
+Conversion to decimal result: 57
+
+Do you want to convert /from decimal or /to decimal? (To quit type /exit) > /to
+Enter source number: > 111001
+Enter source base: > 2
+Conversion to decimal result: 57
+
+Do you want to convert /from decimal or /to decimal? (To quit type /exit) > /exit
+Example 3:
+
+Do you want to convert /from decimal or /to decimal? (To quit type /exit) > /to
+Enter source number: > 25a
+Enter source base: > 16
+Conversion to decimal result: 602
+
+Do you want to convert /from decimal or /to decimal? (To quit type /exit) > /from
+Enter number in decimal system: > 602
+Enter target base: > 16
+Conversion result: 25a
+
+Do you want to convert /from decimal or /to decimal? (To quit type /exit) > /exit
