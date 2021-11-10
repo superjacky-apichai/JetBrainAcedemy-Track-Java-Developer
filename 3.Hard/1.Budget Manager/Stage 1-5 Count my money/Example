@@ -1,0 +1,15 @@
+Example
+The greater-than symbol followed by a space (> ) represents the user input. Notice that it's not part of the input.
+
+> Almond 250gm $35.43
+> LEGO DUPLO Town Farm Animals $10.10
+> Sensodyne Pronamel Toothpaste $19.74
+> Hershey's milk chocolate bars $8.54
+> Gildan LT $8.61
+Almond 250gm $35.43
+LEGO DUPLO Town Farm Animals $10.10
+Sensodyne Pronamel Toothpaste $19.74
+Hershey's milk chocolate bars $8.54
+Gildan LT $8.61
+
+Total: $82.42
