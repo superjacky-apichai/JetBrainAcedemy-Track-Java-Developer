@@ -1,0 +1,69 @@
+Example
+The greater-than symbol followed by a space (> ) represents the user input. Notice that it's not part of the input.
+
+Choose your action:
+1) Add income
+2) Add purchase
+3) Show list of purchases
+4) Balance
+0) Exit
+> 1
+
+Enter income:
+> 1000
+Income was added!
+
+Choose your action:
+1) Add income
+2) Add purchase
+3) Show list of purchases
+4) Balance
+0) Exit
+> 4
+
+Balance: $1000.00
+
+Choose your action:
+1) Add income
+2) Add purchase
+3) Show list of purchases
+4) Balance
+0) Exit
+> 3
+
+The purchase list is empty
+
+Choose your action:
+1) Add income
+2) Add purchase
+3) Show list of purchases
+4) Balance
+0) Exit
+> 2
+
+Enter purchase name:
+>Red Fuji Apple
+Enter its price:
+> 5.99
+Purchase was added!
+
+Choose your action:
+1) Add income
+2) Add purchase
+3) Show list of purchases
+4) Balance
+0) Exit
+> 3
+
+Red Fuji Apple $5.99
+Total sum: $5.99
+
+Choose your action:
+1) Add income
+2) Add purchase
+3) Show list of purchases
+4) Balance
+0) Exit
+> 0
+
+Bye!
