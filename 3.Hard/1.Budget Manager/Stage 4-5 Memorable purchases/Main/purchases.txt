@@ -1,0 +1,5 @@
+Balance = 964.57
+Food = {Almond 250g=35.43}
+Clothes = {}
+Entertainment = {}
+Other = {}
